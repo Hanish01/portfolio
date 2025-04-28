@@ -780,3 +780,22 @@ form button:hover {
     background-color: #ff0000; /* Light gray background on hover */
     color: #ffffff; /* Black text */
 }
+.footer {
+    background-color: #111;
+    color: #aaff00;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 16px;
+}
+
+.footer-links a {
+    color: #aaff00;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
